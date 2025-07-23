@@ -1,0 +1,6 @@
+C:\Users\felip\Documents\DevPro\metrics\ComponentsMetrics\ComponentsMetrics\obj\Debug\net8.0\ComponentsMetrics.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\DevPro\metrics\ComponentsMetrics\ComponentsMetrics\obj\Debug\net8.0\ComponentsMetrics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\DevPro\metrics\ComponentsMetrics\ComponentsMetrics\obj\Debug\net8.0\ComponentsMetrics.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\DevPro\metrics\ComponentsMetrics\ComponentsMetrics\obj\Debug\net8.0\ComponentsMetrics.AssemblyInfo.cs
+C:\Users\felip\Documents\DevPro\metrics\ComponentsMetrics\ComponentsMetrics\obj\Debug\net8.0\ComponentsMetrics.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\DevPro\metrics\ComponentsMetrics\ComponentsMetrics\obj\Debug\net8.0\ComponentsMetrics.sourcelink.json
